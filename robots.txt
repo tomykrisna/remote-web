@@ -1,0 +1,21 @@
+User-Agent: *
+Allow: /supplier/list
+Allow: /promo/list-promo
+Allow: /login
+Allow: /register
+Allow: /inbox
+Allow: /product/detail/*
+Allow: /product/product-category?*
+Allow: /supplier/detail?*
+Allow: /subscription
+Disallow: /cart?*
+Disallow: /cart/*
+Disallow: /order-details/*
+Disallow: /order-list
+Disallow: /order-list/*
+Disallow: /payment/*
+Disallow: /payment-confirm
+Disallow: /payment-confirm/*
+
+
+Sitemap: https://bos.youtap.id/sitemap/sitemap.xml
