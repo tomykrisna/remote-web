@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.youtap.indo.merchant.staging",
+      "sha256_cert_fingerprints": [
+        "2D:06:EC:F6:9A:43:1B:CF:E1:F2:C2:0A:7A:CB:9C:BB:90:DB:00:D6:0B:9C:19:94:76:1B:E9:67:92:9C:66:63"
+      ]
+    }
+  }
+]

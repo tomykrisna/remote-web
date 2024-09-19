@@ -1,0 +1,2 @@
+(self.webpackChunkyoutapBos=self.webpackChunkyoutapBos||[]).push([[60],{44060:(u,n,s)=>{s.r(n),s.d(n,{Browser:()=>r,BrowserWeb:()=>_});var t=s(83918),l=s(78626);class _ extends l.Uw{constructor(){super(),this._lastWindow=null}open(o){var e=this;return(0,t.Z)(function*(){e._lastWindow=window.open(o.url,o.windowName||"_blank")})()}close(){var o=this;return(0,t.Z)(function*(){return new Promise((e,a)=>{null!=o._lastWindow?(o._lastWindow.close(),o._lastWindow=null,e()):a("No active window to close!")})})()}}const r=new _}}]);
+//# sourceMappingURL=60.73563d95cc444e73.js.map
